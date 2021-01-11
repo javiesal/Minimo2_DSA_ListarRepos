@@ -1,0 +1,24 @@
+com/jsr/minimo2_base_api23/APIInterface.java
+ com.jsr.minimo2_base_api23.APIInterface
+com/jsr/minimo2_base_api23/APIClient.java
+ com.jsr.minimo2_base_api23.APIClient
+com/jsr/minimo2_base_api23/SingletonUser.java
+ com.jsr.minimo2_base_api23.SingletonUser
+com/jsr/minimo2_base_api23/RecyclerAdapter.java
+ com.jsr.minimo2_base_api23.RecyclerAdapter
+ com.jsr.minimo2_base_api23.RecyclerAdapter$ViewHolder
+com/jsr/minimo2_base_api23/Repository.java
+ com.jsr.minimo2_base_api23.Repository
+com/jsr/minimo2_base_api23/BuildConfig.java
+ com.jsr.minimo2_base_api23.BuildConfig
+com/jsr/minimo2_base_api23/User.java
+ com.jsr.minimo2_base_api23.User
+com/jsr/minimo2_base_api23/SplashActivity.java
+ com.jsr.minimo2_base_api23.SplashActivity
+ com.jsr.minimo2_base_api23.SplashActivity$1
+com/jsr/minimo2_base_api23/MainActivity.java
+ com.jsr.minimo2_base_api23.MainActivity
+ com.jsr.minimo2_base_api23.MainActivity$1
+ com.jsr.minimo2_base_api23.MainActivity$1$1
+com/jsr/minimo2_base_api23/ListareposActivity.java
+ com.jsr.minimo2_base_api23.ListareposActivity

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jsalm\\AndroidStudioProjects\\Minimo2_base_API23\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jsalm\\.gradle\\caches\\transforms-2\\files-2.1\\282d5718cd43fcac5627c0bdf085c443\\wear-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "929"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "347",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "1221"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jsalm\\.gradle\\caches\\transforms-2\\files-2.1\\a527ad4f532df6b258c428a911debd89\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
